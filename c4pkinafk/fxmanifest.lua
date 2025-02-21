@@ -2,13 +2,10 @@ fx_version 'cerulean'
 game 'gta5'
 
 author 'c4pkin'
-description 'ReaineR Script'
-version '1.0'
+description 'c4pkin Development'
+version '1.0.0'
 
-client_scripts {
-    'client.lua'
-}
+client_script 'client.lua'
 
-server_scripts {
-    'server.lua'
-}
+server_script 'server.lua'
+
